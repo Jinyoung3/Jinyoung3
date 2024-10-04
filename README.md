@@ -1,7 +1,7 @@
 ## Welcome to my page 👋
 I'm Jin. I aspire to create software that can help users from around the world.
 
-- 🔭 I’m currently working on front and backend development using Django.
+- 🔭 I’m currently working on front and backend development project using Django.
 - 🌱 I’m currently learning algorithms & Internet Tech
 - ⚡ Fun fact: Badminton is the sport that I play most often at the moment.
 <!--
